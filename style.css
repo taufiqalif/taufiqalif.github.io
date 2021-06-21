@@ -1,0 +1,15 @@
+.jumbotron {
+  padding-top: 21rem;
+  background-image: url(img/taufiq_01.jpg);
+}
+/* .jumbotron img {
+  width: 400px;
+} */
+
+#projects {
+  background-color: #999;
+}
+
+section {
+  padding-top: 5rem;
+}
